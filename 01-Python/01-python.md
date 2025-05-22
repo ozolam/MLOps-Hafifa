@@ -11,20 +11,13 @@
     2. Create regex for Email address (use [this site](https://regex101.com))
 
 3. #### Packages
-    1. [Python package](https://packaging.python.org/tutorials/packaging-projects/)
-    2. Read about the following packages, try to use them:
-        - pytorch
-        - tensorflow
-        - scikit-learn
-        - pandas
-        - xgboost
-        - transformers
-        - onnx
+    - [Python package](https://packaging.python.org/tutorials/packaging-projects/)
 
 
 4. #### Web Frameworks
-   1. Read about different web frameworks and playaround with them.
+   - Read about different web frameworks and playaround with them.
       - FastAPI
+      - Flask
       - Another framework of your choosing
 
 
@@ -39,10 +32,5 @@
 
     
 ### Final Exercise:
-You are given the task of training a basic machine learning model using Python.
-Your goal is to:
- - Load the Iris dataset using scikit-learn
- - Split the dataset into training and test sets
- - Train a RandomForestClassifier
- - Calculate and print the accuracy of the model on the test set
- - Organize your code using functions
+Create a webserver using flask, that will host the most beautiful page ever existed!
+Make it accessible from http://localhost:8080. Show your page to your hofef for review:)

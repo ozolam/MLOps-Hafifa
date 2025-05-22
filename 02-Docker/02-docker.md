@@ -25,5 +25,5 @@
 -   Docker alternatives
 
 ### Final Exercise:
-- Create a Dockerfile that packs your code of the code from the previous section.
+- Create a Dockerfile that packs the code you created in the previous section.
 - Give an example for a use case where a VM is more suitable than a container.
