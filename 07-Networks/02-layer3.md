@@ -1,0 +1,51 @@
+### Goals
+- The trainee will get to know how to handle IP addresses
+- The trainee will get familiar with the concept of routing
+- The trainee will understand some layer 3 protocols
+
+### Tasks
+- What is the responsibility of the third layer?
+- IP Addresses
+  - Explain in your own words what is a subnet mask, and why is it needed
+  - Explain the different address classes (Classes A-E)
+  - What would be the minimal network size for a network with 12 hosts? what would be its subnet mask?
+  - What would be the minimal network size for a network with 600 hosts? what would be its subnet mask?
+  - How many hosts can the network 10.10.128.0/22 hold? what would be the first valid ip adress? what would be the last valid ip adress?
+  - Explain what are private network addresses, where are they used and what are their addresses?
+  - What IP address is used to describe "myself"? what is the common name for this address?
+  - In Linux, how can you see the IP addresses and subnet masks a network interface has?
+  - In Linux, add the address 12.13.14.0/24 to one of your network interfaces
+  - In what files in a Linux system is the IP address of an interface saved?
+- Protocols
+- Static Routing
+  - When do we need to route packets?
+  - What is the default gateway?
+  - In Linux, add a new static route of your choice to your machine
+  - In Linux, change your default gateway. Can you reach the internet? why?
+  - In what files in a Linux system is the default gateway ip specified?
+- NAT
+  - What is the main use of NAT?
+  - What are the pros and the cons of using NAT?
+  - Explain the differences between DNAT, SNAT and PAT?
+  - How does the router know to whom should the returned packet be transfered?
+  - How does NAT table works?
+- Routing Schemes
+  - Read about the different routing schemes:
+    - Unicast
+    - Broadcast
+    - Multicast
+    - Anycast
+    - Geocast
+  - Give an example for a usage of each one
+  - Explain how does a host send a broadcast packet
+  - Explain how does a host send a multicast packet
+- Packets
+  - Describe the packet header of IPv4 packets
+  - Explain what does the **TTL** field do and why do we need it
+- Routing
+  - Why do we need routers
+  - What is an Autonomous System? (AS)
+  - Read about routing protocols.
+    - Why are they used for?
+    - What are the different kinds?
+
