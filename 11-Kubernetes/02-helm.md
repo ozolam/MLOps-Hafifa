@@ -2,7 +2,7 @@
 
 ### TODO:
 
-- Read about [helm](https://letmegooglethat.com/?q=helm)
+- Read about [helm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ### Key Concepts:
